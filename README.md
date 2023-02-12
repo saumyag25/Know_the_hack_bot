@@ -46,3 +46,11 @@ Know_the_hack bot is a FAQ bot for a student led hackathon to answer the queries
 
 ![Beige Colorful Minimal Flowchart Infographic Graph](https://user-images.githubusercontent.com/109900949/215342201-e59497f1-5ad1-479b-8b49-c0410b651077.png)
 
+# Deployement Link on Replit
+
+https://replit.com/@tanvikwatra18/Know-The-Hack-Bot?v=1
+
+# Test Link
+
+http://t.me/Know_the_hack_bot
+
